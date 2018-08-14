@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     ListView lvPlayList;
     Spinner sp_hafiza;
     String[] items;
-    String[] sanatcilar = {"orhan","ferdi","ibrahim","müslüm"};
+    String[] sanatcilar = new String[4]; // type your key value
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
