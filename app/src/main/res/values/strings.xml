@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlayMusicFromSdCard</string>
+
+    <string-array name="hafiza">
+        <item>telefon</item>
+        <item>sd card</item>
+        <item>ikisi</item>
+    </string-array>
+</resources>
